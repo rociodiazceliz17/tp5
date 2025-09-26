@@ -1,0 +1,30 @@
+/* Estilos principales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+header, footer {
+    background-color: #f8b400;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+nav a {
+    margin: 0 10px;
+    color: white;
+    text-decoration: none;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+.btn {
+    background-color: #f8b400;
+    color: white;
+    padding: 0.5em;
+    text-decoration: none;
+    border-radius: 5px;
+}
+.btn:hover {
+    background-color: #e09e00;
+}
